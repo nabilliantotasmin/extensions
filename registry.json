@@ -1,0 +1,51 @@
+{
+    "version": 1,
+    "updated_at": "2026-05-30T00:00:00Z",
+    "extensions": [
+        {
+            "id": "joox",
+            "name": "joox",
+            "display_name": "JOOX",
+            "version": "1.1.0",
+            "description": "JOOX metadata, lyrics, search, streaming, and download provider for SpotiFLAC Mobile.",
+            "download_url": "https://raw.github.com/nabilliantotasmin/extensions/main/joox.ext",
+            "category": "download",
+            "tags": [
+                "joox",
+                "download",
+                "metadata",
+                "lyrics",
+                "search",
+                "streaming",
+                "fallback"
+            ],
+            "downloads": 0,
+            "updated_at": "2026-05-30T00:00:00Z",
+            "min_app_version": "4.3.0"
+        },
+        {
+            "id": "netease",
+            "name": "netease",
+            "display_name": "NetEase Cloud Music",
+            "version": "1.1.0",
+            "description": "NetEase Cloud Music metadata, lyrics, search, streaming, artist, album, and download provider for SpotiFLAC Mobile.",
+            "download_url": "https://raw.github.com/nabilliantotasmin/extensions/main/netease.ext",
+            "category": "download",
+            "tags": [
+                "netease",
+                "cloudmusic",
+                "download",
+                "metadata",
+                "lyrics",
+                "artist",
+                "album",
+                "search",
+                "streaming",
+                "fallback"
+            ],
+            "downloads": 0,
+            "updated_at": "2026-05-30T00:00:00Z",
+            "min_app_version": "4.3.0"
+        }
+    ]
+}
