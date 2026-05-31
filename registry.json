@@ -8,7 +8,7 @@
             "display_name": "JOOX",
             "version": "1.1.0",
             "description": "JOOX metadata, lyrics, search, streaming, and download provider for SpotiFLAC Mobile.",
-            "download_url": "https://raw.github.com/nabilliantotasmin/extensions/main/joox.ext",
+            "download_url": "https://raw.githubusercontent.com/nabilliantotasmin/extensions/main/joox.ext",
             "category": "download",
             "tags": [
                 "joox",
@@ -29,7 +29,7 @@
             "display_name": "NetEase Cloud Music",
             "version": "1.1.0",
             "description": "NetEase Cloud Music metadata, lyrics, search, streaming, artist, album, and download provider for SpotiFLAC Mobile.",
-            "download_url": "https://raw.github.com/nabilliantotasmin/extensions/main/netease.ext",
+            "download_url": "https://raw.githubusercontent.com/nabilliantotasmin/extensions/main/netease.ext",
             "category": "download",
             "tags": [
                 "netease",
